@@ -1,4 +1,4 @@
-// this code is to add musi
+// this code is to add music
 const music = new Audio ('Project1/Adele/Audio/1.mp3');
 //music.play();
 
